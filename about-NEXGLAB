@@ -1,0 +1,349 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NEXGLAB PROJECT</title>
+    <link rel="icon" href="C:\Users\Dell\Desktop\NexGlab.png" >
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="nexglab">
+        <img src="photos/NexGlab.png" >
+        <h2>NexGLab</h2>
+        <p>Un apprentissage numérique… avec une expérience réelle.</p>
+    </div>
+    <div class="nexglab-info">
+        <h1>NexGLab-Nex Generation Laboratory</h1>
+        <p class="about">
+            Nexglab est un laboratoire virtuel immersif qui permet aux étudiants de réaliser des travaux pratiques
+            de manière réaliste et interactive, à tout moment et en tout lieu. Il offre une solution innovante aux
+            problèmes de manque d'équipements et de surcharge des universités, garantissant ainsi une formation
+            pratique de haute qualité.
+        </p>
+        <div class="social">
+            <img src="photos/fb.jpg" title="facebook" >
+            <img src="photos/insta.jpg" title="instagram" >
+            <img src="photos/in.jpg" title="Linkedin" >
+        </div>
+     <!--  Public Cible-->
+       <h2> Public Cible </h2>
+       <div class="Public">
+        
+        <img src="photos/etiduian.png" >
+        <p><b>Étudiants</b></p>
+        <small> acquérir des compétences pratiques supplémentaires malgré la limitation des équipements.</small>
+       </div>
+        <div class="Public">
+        <img src="photos/ecole.jpg" >
+        <p><b>Universités et ecoles</b></p>
+        <small> surmonter les problèmes de surcharge et d'insuffisance des matériels nécessaires.</small>
+       </div>
+       <div class="Public">
+        <img src="photos/prof.png" >
+        <p><b>Enseignants</b></p>
+        <small>  un outil numérique moderne pour l'encadrement, l'évaluation et le suivi efficace des étudiants.</small>
+        </div>
+        <!--Points Forts-->
+        <h2>Points Forts</h2>
+        
+            <div class="Public">
+            <img src="photos/personalise.jpg" title="Personnalisation">
+            <p><b>Personnalisation</b></p>
+            <small>adapté à chaque spécialité technique.</small>
+             </div><div class="Public">
+            <img src="photos/system.jpg" title="Système d'évaluation" >
+            <p><b>Système d'évaluation</b></p>
+            <small>permet aux enseignants de suivre et d'analyser la performance des étudiants.</small>
+            </div><div class="Public">
+            <img src="photos/finance.jpg" title="Coûts réduits">
+            <p><b>Coûts réduits</b></p>
+            <small>accès aux expériences à un prix bien inférieur à celui des laboratoires physiques.</small>
+            </div>
+
+
+            <!--Réalisations-->
+        <h2>Réalisations</h2>
+        <p class="ENTP">Projet pilote en collaboration avec l'École Nationale Supérieure des Travaux Publics.</p><br>
+            <h3>Expériences réalisées :</h3>
+            <div class="Public">
+            <img src="photos/geo.jpg" title="Géologie(Pétrographie)">
+            <p><b>Géologie(Pétrographie)</b></p>
+            <small>étude et classification des roches à travers l'analyse de leurs structures minérales etchimiques.</small>
+             </div><div class="Public">
+            <img src="photos/mds.jpg" title="Mécanique des sols (PDL)" >
+            <p><b>Mécanique des sols(PDL)</b></p>
+            <small>évaluation des propriétés du sol afin d'identifier la couche laplus adaptée pour les fondations.</small>
+            </div><div class="Public">
+            <img src="photos/roche.png" title="Mécanique des roches (RMR)">
+            <p><b>Mécanique des roches (RMR)</b></p>
+            <small>test de la résistance des roches pour sélectionner les plusappropriées aux grands ouvrages d'ingénierie (tunnels, fondations profondes).</small>
+            </div>
+
+            
+                        <!--Notre Vision-->
+            <h2>Notre Vision</h2>
+        
+            <div class="Public">
+            <img src="photos/personalise.jpg" title="Digitalisation">
+            <p><b>Digitalisation</b></p>
+            <small>développer et numériser l'aspect pratique de la formation universitaire.</small>
+             </div><div class="Public">
+            <img src="photos/system.jpg" title="Formation de qualité" >
+            <p><b>Formation de qualité</b></p>
+            <small>garantir un accès équitable à une formation pratique moderne pour tous les étudiants.</small>
+            </div><div class="Public">
+            <img src="photos/finance.jpg" title="Transformation numérique">
+            <p><b>Transformation numérique</b></p>
+            <small>contribuer à la stratégie de l'enseignement supérieur vers un système éducatif numérique intégré.</small>
+            </div>
+
+            <!--Form EMAIL -->
+            <div class="form-box"></div>
+            <h2> Contact Me </h2>
+            <form>
+                <div class="input-group">
+                <input type="text" placeholder="First name" >
+                <input type="text" placeholder="Last name" >
+                </div>
+                 <div class="input-group">
+                <input type="number" placeholder="Phone number" >
+                <input type="email" placeholder="E-mail" >
+                </div>
+                <div class="text-area">
+                    <textarea rows="4" placeholder="Write Your Message" style="font";> </textarea>
+                </div>
+                <button type="submit" class= "sub" title="Are you sure ?"> Send Message !!</button>
+            </form>
+
+            <!-- Contact Me-->
+             <div class="cont">
+                <img src="photos/gmail.jpg"><samp>Nexsglab1@gmail.com</samp>
+                <img src="photos/phonn.png"><samp>+213672553048</samp>
+            </div>
+            <div class="copy">
+                <p> Copyriht @ By NexGLab 2025</p>
+            </div>
+                  
+
+
+    </div>
+</body>
+</html>
+*{
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box ;
+}
+body{
+    background-color:white;
+    font-family: sans-serif;
+}
+.nexglab{
+    width: 40%;
+    float: right;
+}
+.nexglab h2{
+    margin-left: 40%;
+    margin-top: 25px;
+    font-weight: bolder;
+    color: rgb(23, 96, 112) ;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.nexglab p{
+    margin-left: 10%;
+    margin-top: 20px;
+    color: darkturquoise;
+    font-weight: lighter;
+    font-style: italic;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    opacity: 0.4;
+} 
+.nexglab img{
+    width: 97%;
+    height: 100%;
+    border-radius: 50%;
+    border:5px solid rgb(0, 216, 216) ;
+    filter: opacity();
+    box-shadow: 0px 0px 20px rgba(1, 210, 210, 0.971) ;
+    margin-top: 30px;
+    animation: nexglab 4s  4s infinite ;
+}
+@keyframes nexglab {
+    form{box-shadow: 0px 0px 20px rgba(1, 210, 210, 0.91) ;} to{box-shadow: 0px 0px 20px rgba(44, 121, 121, 0.991) ;}
+    form{border:5px solid rgb(0, 216, 216) ;}    to{border:5px solid rgb(49, 91, 91) ;}
+}
+h1{font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+   margin-left: 5px;}
+h2{font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+   margin-left: 5px;}
+
+.about{
+    margin-left: 15px;
+}
+.nexglab-info{
+    width: 60%;
+    height: 100vh;
+    float: left;
+    padding: 0 30;
+    overflow: scroll;
+    overflow-x: hidden;
+}
+.nexglab-info::-webkit-scrollbar{
+    width: 0;
+}
+.nexglab-info h1{
+    margin-top:50px;
+    margin-bottom: 50px;
+}
+.social{
+    margin-top: 20px;
+    margin-left: 15px;
+}
+.social img{
+   width: 42px;
+  margin-right: 15px;
+  cursor: pointer;
+  transition: 2s;
+}
+
+.social img:hover{
+    transform: rotate(20deg);
+    width: 55px;
+}
+.nexglab-info h2{
+    margin-top: 50px;
+    margin-bottom: 15px;
+}
+.Public{
+    display: inline-block;
+    width: 25%;
+    height: 300px;
+    padding: 30px 10px;
+    margin: 2%;
+    vertical-align: top;
+    text-align:center;
+    box-shadow: 0 0 15px  rgba(1, 210, 210, 0.815);
+    background: white;
+    cursor: pointer;
+    transition: 2s;
+}
+.Public:hover{
+    width: 28%;
+    
+}
+.Public img{
+    width: 60%;
+    margin: 5px;  
+    cursor: pointer; 
+}
+
+.Public small{
+    padding-top: 15px; 
+    display: block;
+    cursor: pointer;
+}
+
+.ENTP{
+    margin-left: 15px;
+}
+h3{  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-left: 5%;
+}
+b{font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+small{font-family: Verdana, Geneva, Tahoma, sans-ser}
+.form-box{
+    margin-top: 30px;
+}
+.input-group input{
+    width: 44%;
+    border: 0px;
+    outline: none ;
+    padding: 10px;
+    background-color: rgb(23, 96, 112);
+    color: ghostwhite;
+    margin: 2%;
+    display: inline-block ;
+    border-radius:20px 20px 20px 20px;
+}
+.text-area textarea{
+    width: 93%;
+    border: 0;
+    outline: none !important;
+     padding: 10px;
+    background-color: rgb(23, 96, 112);
+    color: ghostwhite;
+    margin: 2%;
+    display: inline-block;
+    border-radius: 20px 0 20px 0;
+}
+
+.sub{
+    border: 0;
+    outline: none !important;
+     padding: 10px;
+    background-color: rgb(23, 96, 112);
+    color: ghostwhite;
+    margin: 2%;
+    display: inline-block;
+    border-radius: 8px 8px 8px 8px;
+    font-weight:bolder ;
+    cursor: pointer;
+}
+.cont{
+    margin: 5% 0 5% 25%;
+    width: 65%;
+}
+.cont img{
+width: 22px;
+margin: -5px 10px;
+}
+.cont span{
+    margin: 3%;
+    color: rgb(23, 96, 112) ;
+}
+.copy{
+    text-align: center;
+    margin-bottom: 30px;
+    color: gray;
+}
+.input{
+    color: white;
+    font-weight: bolder;
+}
+.input::placeholder{
+    color: white;
+    opacity: 0.7;
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+@media only screen and (max-width:900px){
+    .nexglab-info{
+        width: 95%;
+    }
+    .nexglab{
+        width: 95%;
+    }
+    .nexglab img{
+        width: 90%;
+    }
+    .Public{
+        width: 95%;
+        margin-bottom: 15px;
+        height: auto;
+    }
+    .cont span{
+        font-size: 13px;
+    }
+    .cont img{
+        width: 16px;
+    }
+}
+
